@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "920116374882",
+    "project_id": "movie-watch-app",
+    "storage_bucket": "movie-watch-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:920116374882:android:24ab14ba03d192ee9f903b",
+        "android_client_info": {
+          "package_name": "com.example.application_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "920116374882-d91kkke4fcunsh7k66d5egq831p1g01q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApKIC7EEcn9rHreZZhQNWQ3MKp3EXXnUU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "920116374882-d91kkke4fcunsh7k66d5egq831p1g01q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
